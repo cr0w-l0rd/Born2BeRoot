@@ -32,7 +32,8 @@ technical choices
 ## Resources
 
 ### documentation
-1. [gitbook with some info not complete](https://42-cursus.gitbook.io/guide/1-rank-01/born2beroot)
-articles
+1. [gitbook with some info not complete](https://42-cursus.gitbook.io/guide/1-rank-01/born2beroot)  
+articles  
 tutorials
 1. [gitbook](https://noreply.gitbook.io/born2beroot)
+
